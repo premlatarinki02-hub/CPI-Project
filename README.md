@@ -1,7 +1,7 @@
 # CPI Project
 
 ## 📌 Overview
-This project analyzes and visualizes **Consumer Price Index (CPI)** data using Excel and Power BI.  
+This project analyzes and visualizes **Consumer Price Index (CPI)** data using Excel and Power Query 
 It helps track inflation trends, compare categories, and generate dashboards for insights.
 
 ## 🚀 Features
