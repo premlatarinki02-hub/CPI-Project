@@ -7,6 +7,6 @@ It helps track inflation trends, compare categories, and generate dashboards for
 ## 🚀 Features
 - Import CPI datasets from Excel
 - Data cleaning and transformation
-- Interactive dashboards with Power BI
+- Interactive dashboards with Excel
 - Trend analysis and category breakdowns
 - Export charts and report
