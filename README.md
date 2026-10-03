@@ -1,5 +1,12 @@
-CPI Project is based on inflation. 
-How inflation affect the commodity in different regions like urban, rural and combine?
-Why there is fluctuation in prices every year?
-How oil prices effect the prices of commodities like fruits, cereals and so on.
-Why health care prices increased after COVID 19?
+# CPI Project
+
+## 📌 Overview
+This project analyzes and visualizes **Consumer Price Index (CPI)** data using Excel and Power BI.  
+It helps track inflation trends, compare categories, and generate dashboards for insights.
+
+## 🚀 Features
+- Import CPI datasets from Excel
+- Data cleaning and transformation
+- Interactive dashboards with Power BI
+- Trend analysis and category breakdowns
+- Export charts and report
